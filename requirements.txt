@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+psycopg2-binary
+pytesseract
+pillow
+python-multipart
