@@ -1,7 +1,23 @@
+# Web Framework
 fastapi
 uvicorn
-pymongo
-psycopg2-binary
-pytesseract
-pillow
 python-multipart
+
+# AI & OCR
+# Note: paddlepaddle is the CPU version
+paddlepaddle
+paddleocr
+shapely
+opencv-python
+
+# Databases
+# MongoDB (Async driver)
+motor
+# PostgreSQL (SQLAlchemy + Driver)
+sqlalchemy
+psycopg2-binary
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
